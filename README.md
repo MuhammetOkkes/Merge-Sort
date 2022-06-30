@@ -1,6 +1,6 @@
 # MERGE SORT PROJESI
 
-
+* Patika Profil Linkim :  https://app.patika.dev/okkes
 
 
 
